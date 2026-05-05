@@ -167,18 +167,6 @@ var stateData = {
 		flower: 'Violet',
 		nickname: 'Prairie State'
 	},
-	il: {
-		name: 'Illinois',
-		abbr: 'IL',
-		capitol: 'Springfield',
-		pop: '12,882,135',
-		statehood: '1818',
-		mammal: 'White-Tailed Deer',
-		bird: 'Cardinal',
-		tree: 'White Oak',
-		flower: 'Violet',
-		nickname: 'Prairie State'
-	},
 	'in': {
 		name: 'Indiana',
 		abbr: 'IN',
